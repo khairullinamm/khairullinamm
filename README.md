@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, my name is Milana 👋
 
-<!--
-**khairullinamm/khairullinamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 💬
+I am 21 years old, and at the moment I am studying the profession of a front-end developer.
 
-Here are some ideas to get you started:
+## Skills 📚
+- HTML
+- CSS/SASS/SCSS
+- JavaScript
+- GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 🎓
+- Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cyber Security, Information and analytical security systems (2020 - 2026).
+

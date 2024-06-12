@@ -1,7 +1,7 @@
 ### Hello, my name is Milana 👋
 
 ### About me 💬
-I am 21 years old, and at the moment I am studying the profession of a front-end developer.
+I am 22 years old.
 
 ### Skills 📚
 - HTML
@@ -9,7 +9,10 @@ I am 21 years old, and at the moment I am studying the profession of a front-end
 - JavaScript
 - GIT
 - FIGMA, ADOBE PHOTOSHOP
+- Python
+- ООП
+- UML, ER-diagrams
 
 ### Education 🎓
-- Peter the Great St. Petersburg Polytechnic University,  Institute for Cyber Security and Information Protection, Information and analytical security systems (2020 - 2026).
+- Peter the Great St. Petersburg Polytechnic University,  Institute for Cyber Security and Information Protection, Information and analytical security systems (2020 - 2025).
 
